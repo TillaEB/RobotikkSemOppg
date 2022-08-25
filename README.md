@@ -1,5 +1,8 @@
 # RobotikkSemOppg
 Semesteroppgave for ELE306 Robotikk 
-heihei alle sammen :)
+
+
+25.08
+
 
 
