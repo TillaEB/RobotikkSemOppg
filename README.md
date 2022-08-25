@@ -1,4 +1,4 @@
-# Semesteroppgave for ELE306 Robotikk 
+# Semesteroppgave for ELE306 Robotikk -LOGG
 
 ## Torsdag 25.08
 I dag har vi opprettet GitHub for semesteroppgaven. Vi tenker å skrive oppgaven online versjonen av Word. 
