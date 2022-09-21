@@ -1,9 +1,16 @@
 # Semesteroppgave for ELE306 Robotikk -LOGG
 
+## Onsdag 21.09 
+Forenklet kart av senteret med hindringer og dører. 
+![kart](https://user-images.githubusercontent.com/112080695/191509385-cec742de-cfc6-42c9-a8a9-b69fa4e61b7b.jpg)
+
+
 ## Tirsdag 20.09 
 Diskusjon angående hvilken type robot vi bør velge. 
 Artikkelen under peker på problematikk ved "differential steering mobile robot(diff)"
 http://www.robotplatform.com/knowledge/Classification_of_Robots/wheel_control_theory.html
+
+Vi bestemte oss for å bruke 1.etg i Bergen Storsenter som mal til kartet. Gikk på senteret for å kartlegge hindringer. 
 
 
 ## Søndag 18.09 
@@ -30,12 +37,4 @@ Vi har tenkt mest på en robot som er tenkt for et kjøpesenter.
 ## Torsdag 25.08
 I dag har vi opprettet GitHub for semesteroppgaven. Vi tenker å skrive oppgaven online versjonen av Word. 
 Vi har vært innom tanken på oppgave om robot som vanner planter på kjøpesenter og gaffeltruck. Ikke bestemt enda.
-
-
-
-
-
-
-
-
 
