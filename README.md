@@ -5,6 +5,8 @@
 Forenklet kart av senteret med hindringer og dører. 
 <img width="689" alt="image" src="https://user-images.githubusercontent.com/112080695/191510127-eede91f6-79f2-4d07-9921-542b72f281b3.png">
 
+Søppel går som uplanlagt hindring
+
 ### Omnidirectional robot 
 https://www.researchgate.net/publication/221786657_Omnidirectional_Mobile_Robot_-_Design_and_Implementation 
 
