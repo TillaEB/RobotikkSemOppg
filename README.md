@@ -1,8 +1,12 @@
 # Semesteroppgave for ELE306 Robotikk -LOGG
 
+
 ## Onsdag 21.09 
 Forenklet kart av senteret med hindringer og dører. 
 <img width="689" alt="image" src="https://user-images.githubusercontent.com/112080695/191510127-eede91f6-79f2-4d07-9921-542b72f281b3.png">
+
+### Omnidirectional robot 
+https://www.researchgate.net/publication/221786657_Omnidirectional_Mobile_Robot_-_Design_and_Implementation 
 
 ## Tirsdag 20.09 
 Diskusjon angående hvilken type robot vi bør velge. 
