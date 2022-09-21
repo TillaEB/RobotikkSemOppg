@@ -2,8 +2,7 @@
 
 ## Onsdag 21.09 
 Forenklet kart av senteret med hindringer og dører. 
-![kart](https://user-images.githubusercontent.com/112080695/191509385-cec742de-cfc6-42c9-a8a9-b69fa4e61b7b.jpg)
-
+<img width="689" alt="image" src="https://user-images.githubusercontent.com/112080695/191510127-eede91f6-79f2-4d07-9921-542b72f281b3.png">
 
 ## Tirsdag 20.09 
 Diskusjon angående hvilken type robot vi bør velge. 
