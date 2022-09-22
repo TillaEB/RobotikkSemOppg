@@ -14,6 +14,7 @@ Plan for dagen:
  
  Link til youtube video 
  https://www.youtube.com/c/TommyHvidsten/videos
+ https://www.youtube.com/watch?v=wwQQnSWqB7A
  
 ## Onsdag 21.09 
 Forenklet kart av senteret med hindringer og dører. 
