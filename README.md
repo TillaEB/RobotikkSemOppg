@@ -1,6 +1,14 @@
 # Semesteroppgave for ELE306 Robotikk -LOGG
 
+## Torsdag 
+Sendte i går melding til foreleser da vi var usikker på hvordan vi skulle nå flere målpunkt. Om vi skulle behandle det som mange små strekkninger med mål og startpunkt eller et målpunkt med flere startpunkt. Etter veldig godt svar og tips fra foreleser skjønte vi mer hvordan vi måtte tenke. 
+Vi må gå for roadmap method og ønsker å ta hensyn til kinematikken da vi velger en såpass avansert robot. Da gjennstår det bare to navigasjonsmetoder som vi må lese på og bestemme oss for, lattice og RRT 
 
+Plan for dagen:
+ - Tegne skjematisk tegning av basen til roboten (oppg 2)
+ - Utvikle likninger for omni (oppg 3)
+ - Holonom/ikke holonom begrunnelse (oppg 4) 
+ 
 ## Onsdag 21.09 
 Forenklet kart av senteret med hindringer og dører. 
 <img width="689" alt="image" src="https://user-images.githubusercontent.com/112080695/191510127-eede91f6-79f2-4d07-9921-542b72f281b3.png">
