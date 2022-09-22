@@ -9,6 +9,9 @@ Plan for dagen:
  - Utvikle likninger for omni (oppg 3)
  - Holonom/ikke holonom begrunnelse (oppg 4) 
  
+ Link til Robotino deler hardware:
+ https://www.festo-didactic.com/int-en/services/robotino/hardware/?fbid=aW50LmVuLjU1Ny4xNy4zNC4xNDI5
+ 
 ## Onsdag 21.09 
 Forenklet kart av senteret med hindringer og dører. 
 <img width="689" alt="image" src="https://user-images.githubusercontent.com/112080695/191510127-eede91f6-79f2-4d07-9921-542b72f281b3.png">
