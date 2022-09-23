@@ -1,6 +1,10 @@
 # Semesteroppgave for ELE306 Robotikk -LOGG
 
 
+## Fredag 23.09
+Jobbet videre med oblig og fått til oppgave 2 og oppgave 4. 
+Har fått svar fra foreleser ang møte om en del spørsmål. Dette møtet blir tirsdag etter kl 12.00.
+Vi har bestemt oss for navigasjonsmetoden lattice planner. 
 
 ## Torsdag 22.09
 Sendte i går melding til foreleser da vi var usikker på hvordan vi skulle nå flere målpunkt. Om vi skulle behandle det som mange små strekkninger med mål og startpunkt eller et målpunkt med flere startpunkt. Etter veldig godt svar og tips fra foreleser skjønte vi mer hvordan vi måtte tenke. 
