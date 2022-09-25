@@ -1,5 +1,7 @@
 # Semesteroppgave for ELE306 Robotikk -LOGG
 
+## Søndag 25.09
+Blitt ferdig med oblig og gjort klart hvilke navigasjon- og kontrollmetode vi skal bruke. Samtidig snakket smått om flere ting vi er litt usikre på som vi som planlagt skal ta opp med foreleser tirsdag.
 
 ## Fredag 23.09
 Jobbet videre med oblig og fått til oppgave 2 og oppgave 4. 
