@@ -1,5 +1,8 @@
 # Semesteroppgave for ELE306 Robotikk -LOGG
 
+## Tirsdag 27.09 
+Funnet ut hvordan vi kan endre utseende på huset slik at vi kan tilpasse det til et kjøpesenter. Nå må vi finne ut størrelsesforholdene 
+
 ## Søndag 25.09
 Blitt ferdig med oblig og gjort klart hvilke navigasjon- og kontrollmetode vi skal bruke. Samtidig snakket smått om flere ting vi er litt usikre på som vi som planlagt skal ta opp med foreleser tirsdag.
 
