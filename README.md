@@ -5,6 +5,8 @@ Funnet ut hvordan vi kan endre utseende på huset slik at vi kan tilpasse det ti
 ![image](https://user-images.githubusercontent.com/112081507/192486573-a000cb86-703a-441c-aeb4-38696940a00d.png)
 ![image](https://user-images.githubusercontent.com/112081691/192516434-99699bd3-932c-4c35-99fb-92e269a5ec99.png)
 
+Link til hvordan lattice koden er bygget opp 
+https://github.com/petercorke/robotics-toolbox-matlab/blob/master/Lattice.m 
 
 
 ## Søndag 25.09
