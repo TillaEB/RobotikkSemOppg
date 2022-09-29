@@ -3,7 +3,8 @@
 ## Torsdag 
 ENDELIG 
 Mangler litt men snart ferdig kart 
-![image](https://user-images.githubusercontent.com/112081507/192983088-582c126c-1cb8-419e-9906-9997505734f4.png)
+![image](https://user-images.githubusercontent.com/112081507/192986812-f94aec51-b164-4f28-bc91-b5bdc229bf5b.png)
+
 
 ## Tirsdag 27.09 
 Funnet ut hvordan vi kan endre utseende på huset slik at vi kan tilpasse det til et kjøpesenter. Nå må vi finne ut størrelsesforholdene 
