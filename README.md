@@ -3,7 +3,8 @@
 ## Torsdag 
 ENDELIG 
 Mangler litt men snart ferdig kart 
-![image](https://user-images.githubusercontent.com/112081507/192986812-f94aec51-b164-4f28-bc91-b5bdc229bf5b.png)
+![image](https://user-images.githubusercontent.com/112081507/192988671-f8e8f267-55dc-44c2-944f-ce75fed773c7.png)
+
 
 
 ## Tirsdag 27.09 
