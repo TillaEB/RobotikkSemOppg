@@ -2,7 +2,7 @@
 
 ## Fredag 30.09 
 I dag har vi jobbet med PDR, og er snart ferdig med den. 
-Under diskusjonen i forbindelse med PDR tok vi igjen og vurderte hvilken navigasjonsmetode vi syntes passet best. 
+Under diskusjonen tok vi oppigjen tråden angående navigasjonsmetode
 ![image](https://user-images.githubusercontent.com/112081507/193261368-ae845402-f022-45de-856e-cf3b8eafd746.png)
 Vi konkluderer fermdeles med at Lattice er et godt valg for vårt formål 
 
