@@ -1,4 +1,4 @@
-# Semesteroppgave for ELE306 Robotikk -LOGG
+# Semesteroppgave for ELE306 Robotikk 🤖 
 
 ## Tirsdag 04.10 
 Ny uke, ny diskusjon rundt navigasjonsmetode. 
