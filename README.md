@@ -8,6 +8,40 @@ Senere i uken er det PDR vi må derfor gjøre litt om på det vi har gjort til n
 Vi innser at vi har letet etter gode grunner til å bruke lattice og ikke klart å være helt objektiv i diskusjonen. 
 Neste steg nå er å se hvor mange noder vi trenger for å dekke en tilfredsstillende del av kartet. 
 
+### MATLAB 
+- Hvordan gå fra bilde til occupancy grid: 
+https://se.mathworks.com/help/nav/ref/binaryoccupancymap.html
+
+Se fil: bildekart.m for vårt kart. 
+Orginalt kart: se fil ferdigkart 1.
+
+Occupancy grid:
+
+<img width="807" alt="image" src="https://user-images.githubusercontent.com/112080695/193799174-2faaa996-8cb4-4164-b398-caf8823564a7.png">
+
+
+- PRM i matlab: 
+https://se.mathworks.com/help/robotics/ug/path-planning-in-environments-of-difference-complexity.html
+
+Se også https://se.mathworks.com/help/robotics/ref/mobilerobotprm.html
+
+
+Se fil PRMpathfinder.m for vår simulering
+
+PRM planlegging:
+
+<img width="818" alt="image" src="https://user-images.githubusercontent.com/112080695/193799904-4536c994-94bd-42b4-829a-0a7df4c675b4.png">
+
+
+Kart med punkter for planter:
+
+<img width="576" alt="image" src="https://user-images.githubusercontent.com/112080695/193801073-d9e1fe29-33de-49e4-b917-f1e035d2bf52.png">
+
+- Planleggings metoder i matlab: 
+https://se.mathworks.com/help/nav/motion-planning.html
+
+Se under motion planning. 
+
 ## Fredag 30.09 
 I dag har vi jobbet med PDR, og er snart ferdig med den. 
 Under diskusjonen tok vi oppigjen tråden angående navigasjonsmetode
