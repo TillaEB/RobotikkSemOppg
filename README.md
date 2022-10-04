@@ -6,8 +6,7 @@ Vi har lenge vært låst på lattice planner, men ettersom at roboten vår ikke 
 Senere i uken er det PDR vi må derfor gjøre litt om på det vi har gjort til nå. 
 
 Vi innser at vi har letet etter gode grunner til å bruke lattice og ikke klart å være helt objektiv i diskusjonen. 
-
-
+Neste steg nå er å se hvor mange noder vi trenger for å dekke en tilfredsstillende del av kartet. 
 ## Fredag 30.09 
 I dag har vi jobbet med PDR, og er snart ferdig med den. 
 Under diskusjonen tok vi oppigjen tråden angående navigasjonsmetode
