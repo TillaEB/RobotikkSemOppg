@@ -5,6 +5,8 @@ Ny uke, ny diskusjon rundt navigasjonsmetode.
 Vi har lenge vært låst på lattice planner, men ettersom at roboten vår ikke har naturlig svingradius er dette noe vi må legge inn selv. RRT blir overkill for en holonomrobot. Vi ønsker å bruke roadmap methods, da står vi igjen med en siste metode, nemlig PRM, som er der vi lander for denne gang. (Dette avviker fra det vi har levert inn på obligen) 
 Senere i uken er det PDR vi må derfor gjøre litt om på det vi har gjort til nå. 
 
+Vi innser at vi har letet etter gode grunner til å bruke lattice og ikke klart å være helt objektiv i diskusjonen. 
+
 
 ## Fredag 30.09 
 I dag har vi jobbet med PDR, og er snart ferdig med den. 
