@@ -1,5 +1,8 @@
 # Semesteroppgave for ELE306 Robotikk 🤖 
 
+## Onsdag 05.10 
+Tilla har fikset skallering på bildet slik at kjøpesenteret ikke er 1.6 km bredt lengre 
+
 ## Tirsdag 04.10 
 Ny uke, ny diskusjon rundt navigasjonsmetode. 
 Vi har lenge vært låst på lattice planner, men ettersom at roboten vår ikke har naturlig svingradius er dette noe vi må legge inn selv. RRT blir overkill for en holonomrobot. Vi ønsker å bruke roadmap methods, da står vi igjen med en siste metode, nemlig PRM, som er der vi lander for denne gang. (Dette avviker fra det vi har levert inn på obligen) 
