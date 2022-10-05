@@ -1,7 +1,9 @@
 # Semesteroppgave for ELE306 Robotikk 🤖 
 
 ## Onsdag 05.10 
-Tilla har fikset skallering på bildet slik at kjøpesenteret ikke er 1.6 km bredt lengre 
+Tilla har fikset skalering på bildet slik at kjøpesenteret ikke er 1.6 km bredt lengre.
+Har gått gjennom punktene til oppgaven for å skaffe oss en bedre oversikt over hva som skal være med og fremdrift i oppgaven. Ligger tilsynelatende greit ann i forhold til fremdrift i faget. Fokus fremover vil være matlab og simuleringer. Vi må lese oss opp på sensorer og kontrollstrategi, og få bestemt oss for det i løpet av kort tid. 
+
 
 ## Tirsdag 04.10 
 Ny uke, ny diskusjon rundt navigasjonsmetode. 
