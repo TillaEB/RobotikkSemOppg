@@ -20,8 +20,7 @@ Orginalt kart: se fil sistekart.
 
 Occupancy grid:
 
-<img width="807" alt="image" src="https://user-images.githubusercontent.com/112080695/193799174-2faaa996-8cb4-4164-b398-caf8823564a7.png">
-
+<img width="622" alt="image" src="https://user-images.githubusercontent.com/112080695/194028460-3c6d7fb2-220f-4006-a078-172df5f3e214.png">
 
 - PRM i matlab: 
 https://se.mathworks.com/help/robotics/ug/path-planning-in-environments-of-difference-complexity.html
@@ -37,8 +36,7 @@ PRM planlegging:
 
 Kart med punkter for planter:
 
-![image](https://user-images.githubusercontent.com/112080695/194027546-5d366b6c-bcd0-4f8d-ab83-15031f7e6582.png)
-
+![image](https://user-images.githubusercontent.com/112080695/194028014-69e30c51-5896-4134-a2e4-04ad769adc12.png)
 
 - Planleggings metoder i matlab: 
 https://se.mathworks.com/help/nav/motion-planning.html
