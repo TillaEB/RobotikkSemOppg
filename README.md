@@ -16,7 +16,7 @@ Neste steg nå er å se hvor mange noder vi trenger for å dekke en tilfredsstil
 https://se.mathworks.com/help/nav/ref/binaryoccupancymap.html
 
 Se fil: bildekart.m for vårt kart. 
-Orginalt kart: se fil ferdigkart 1.
+Orginalt kart: se fil sistekart.
 
 Occupancy grid:
 
@@ -33,12 +33,12 @@ Se fil PRMpathfinder.m for vår simulering
 
 PRM planlegging:
 
-<img width="818" alt="image" src="https://user-images.githubusercontent.com/112080695/193799904-4536c994-94bd-42b4-829a-0a7df4c675b4.png">
-
+<img width="636" alt="image" src="https://user-images.githubusercontent.com/112080695/194025442-64d630f1-55f3-49b4-a40b-9568f11d74af.png">
 
 Kart med punkter for planter:
 
-<img width="576" alt="image" src="https://user-images.githubusercontent.com/112080695/193801073-d9e1fe29-33de-49e4-b917-f1e035d2bf52.png">
+![image](https://user-images.githubusercontent.com/112080695/194027546-5d366b6c-bcd0-4f8d-ab83-15031f7e6582.png)
+
 
 - Planleggings metoder i matlab: 
 https://se.mathworks.com/help/nav/motion-planning.html
