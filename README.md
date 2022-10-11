@@ -4,6 +4,8 @@ Vi har blitt enige om at punktene vi plotter i MatLab er området rundt planten,
 Fortvil ikke, det går fint å svinge 😏 :
 ![image](https://user-images.githubusercontent.com/112081691/195098064-5a73eb01-1522-45e3-84ce-fd3770682631.png)
 
+Vi har nå funnet ut og forstått mer av hvordan vi skal navigere roboten i lattice planner i Matlab - og knukket koden for hvordan θ fungerer. Nå gir alt mening.
+
 
 ## Torsdag 06.10
 Samme uke, ny diskusjon rundt navigasjonsmetode.
