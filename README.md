@@ -1,4 +1,10 @@
 # Semesteroppgave for ELE306 Robotikk 🤖 
+## Tirsdag 11.10
+Vi har blitt enige om at punktene vi plotter i MatLab er området rundt planten, og ikke nødvendigvis akuratt der planten står. Roboten kjører derfor til området rundt planten, mens robotarmen vil ta ansvar for strekningen til den faktiske planten. Siden vi har byttet til car-like robot vil vi at roboten skal komme "på siden" av planten, og ikke peke nesen mot planten. Dette er mest praktisk i forhold til at den skal kjøre videre etter vanning.
+
+## Torsdag 06.10
+Samme uke, ny diskusjon rundt navigasjonsmetode.
+Etter mye om og men har vi kommet fram til at det er mer fornuftig å velge car-like robot. Vi fortsetter med samme lokaliseringsmetode, men endrer controller til "follow a trajectory".
 
 ## Onsdag 05.10 
 Tilla har fikset skalering på bildet slik at kjøpesenteret ikke er 1.6 km bredt lengre.
