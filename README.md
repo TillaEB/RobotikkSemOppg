@@ -1,6 +1,9 @@
 # Semesteroppgave for ELE306 Robotikk 🤖 
 ## Tirsdag 11.10
 Vi har blitt enige om at punktene vi plotter i MatLab er området rundt planten, og ikke nødvendigvis akuratt der planten står. Roboten kjører derfor til området rundt planten, mens robotarmen vil ta ansvar for strekningen til den faktiske planten. Siden vi har byttet til car-like robot vil vi at roboten skal komme "på siden" av planten, og ikke peke nesen mot planten. Dette er mest praktisk i forhold til at den skal kjøre videre etter vanning.
+Fortvil ikke, det går fint å svinge 😏 :
+![image](https://user-images.githubusercontent.com/112081691/195098064-5a73eb01-1522-45e3-84ce-fd3770682631.png)
+
 
 ## Torsdag 06.10
 Samme uke, ny diskusjon rundt navigasjonsmetode.
