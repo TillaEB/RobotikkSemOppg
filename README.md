@@ -7,9 +7,12 @@ Fortvil ikke, det går fint å svinge 😏 :
 Vi har nå funnet ut og forstått mer av hvordan vi skal navigere roboten i lattice planner i Matlab - og knukket koden for hvordan θ fungerer. Nå gir alt mening.
 
 
+
 ## Torsdag 06.10
 Samme uke, ny diskusjon rundt navigasjonsmetode.
 Etter mye om og men har vi kommet fram til at det er mer fornuftig å velge car-like robot. Vi fortsetter med samme lokaliseringsmetode, men endrer controller til "follow a trajectory".
+Vi har funnet ut at det ikke er nødvendig å bruke omnidirectional robot ettersom at vi har et stort kjøpesenter som roboten skal navigere i. Vi føler også at omnidirectioal robot blir for komplekst og fjernt, og bytter derfor til en robot som vi kan ha mer eierskap over, som vi forsår oss mer på. 
+Arbeidet vi har gjort frem til nå vil likevel ikke være bortkastet. Vi har brukt mye tid på latticeplanner tidligere, og har nå behov for en navigasjonsmetode som krever at man tar hensyn til robotens kinematikk, derfor vil vi fortsette arbeidet med lattice planner. 
 
 ## Onsdag 05.10 
 Tilla har fikset skalering på bildet slik at kjøpesenteret ikke er 1.6 km bredt lengre.
