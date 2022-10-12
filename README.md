@@ -1,9 +1,12 @@
 # Semesteroppgave for ELE306 Robotikk 🤖 
 
+
 ## Onsdag 12.10 
 Arbeider i dag med å få kjøpesenteret inn i fusion 360. Dette har vi nå klart, nå handler det om skalering. 
 Ser også på å få stl fil fra fusion360 inn i ROS så vi kan lage en ny verden. 
 Link vi kanskje kan bruke: https://classic.gazebosim.org/tutorials?tut=build_model&cat=build_robot  
+
+Ble tipset om IMU i forelesning i dag. Brukes til dead reckogning, som vi skal ha
 
 ## Tirsdag 11.10
 Vi har blitt enige om at punktene vi plotter i MatLab er området rundt planten, og ikke nødvendigvis akuratt der planten står. Roboten kjører derfor til området rundt planten, mens robotarmen vil ta ansvar for strekningen til den faktiske planten. Siden vi har byttet til car-like robot vil vi at roboten skal komme "på siden" av planten, og ikke peke nesen mot planten. Dette er mest praktisk i forhold til at den skal kjøre videre etter vanning.
