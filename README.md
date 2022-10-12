@@ -20,6 +20,18 @@ Etter mye om og men har vi kommet fram til at det er mer fornuftig å velge car-
 Vi har funnet ut at det ikke er nødvendig å bruke omnidirectional robot ettersom at vi har et stort kjøpesenter som roboten skal navigere i. Vi føler også at omnidirectioal robot blir for komplekst og fjernt, og bytter derfor til en robot som vi kan ha mer eierskap over, som vi forsår oss mer på. 
 Arbeidet vi har gjort frem til nå vil likevel ikke være bortkastet. Vi har brukt mye tid på latticeplanner tidligere, og har nå behov for en navigasjonsmetode som krever at man tar hensyn til robotens kinematikk, derfor vil vi fortsette arbeidet med lattice planner. 
 
+Jobbet med lattice for å skjønne hvordan de forskjellige funksjonene funker, root, grid, inflate gir endelig mening. 
+Forsket frem og tilbake for å finne ut hvilke parametre som ga oss et best mulig resultat. 
+For å unngå at lattice grid går helt inntil hindringer brukte vi inflate=1. Dette gir en "dødsone" på 1 meter fra hindringene. Noen steder hvor det er stolper i kartet går strekene tvers over hindringer. Dette har vi ikke klart å unngå. Noen steder vil den også kollidere med hjørne av en butikk osv.  
+
+Måten vi har tatt hensyn til dette: 
+ - Vi har sørget for å legge inn mellompunkt noen steder hvor det kreves slik at roboten ikke kjører en hindring. 
+ - Det koster mer å svinge enn å kjøre rett, prøver å holde den mest mulig "midt" i kartet og på en linje. 
+ - Tilpasset hvilken vinkel den skal ende opp i. 
+
+![image](https://user-images.githubusercontent.com/112081507/195333800-16748f94-4809-4dac-a0dd-3eadff4591dc.png)
+ 
+
 ## Onsdag 05.10 
 Tilla har fikset skalering på bildet slik at kjøpesenteret ikke er 1.6 km bredt lengre.
 Har gått gjennom punktene til oppgaven for å skaffe oss en bedre oversikt over hva som skal være med og fremdrift i oppgaven. Ligger tilsynelatende greit ann i forhold til fremdrift i faget. Fokus fremover vil være matlab og simuleringer. Vi må lese oss opp på sensorer og kontrollstrategi, og få bestemt oss for det i løpet av kort tid. 
