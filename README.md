@@ -1,6 +1,6 @@
 # Semesteroppgave for ELE306 Robotikk 🤖 
 
-##Onsdag 12.10 
+## Onsdag 12.10 
 Arbeider i dag med å få kjøpesenteret inn i fusion 360. Dette har vi nå klart, nå handler det om skalering. 
 Ser også på å få stl fil fra fusion360 inn i ROS så vi kan lage en ny verden. 
 Link vi kanskje kan bruke: https://classic.gazebosim.org/tutorials?tut=build_model&cat=build_robot  
