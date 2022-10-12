@@ -30,7 +30,9 @@ Måten vi har tatt hensyn til dette:
  - Tilpasset hvilken vinkel den skal ende opp i. 
 
 ![image](https://user-images.githubusercontent.com/112081507/195333800-16748f94-4809-4dac-a0dd-3eadff4591dc.png)
- 
+
+Vi har tenkt oss 8 "soner" hvor det vil befinne seg planter, og har testet at roboten kjører en kollisjonsfri rute mellom plantene. 
+Roboten vil kjøre en fast rute, og ha en fast rekkefølge den besøker plantene i. 
 
 ## Onsdag 05.10 
 Tilla har fikset skalering på bildet slik at kjøpesenteret ikke er 1.6 km bredt lengre.
