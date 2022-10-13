@@ -4,6 +4,14 @@
 
 Waterino--> H2rObot
 
+Fått kartet inn i fusion som 3D model: 
+
+<img width="549" alt="image" src="https://user-images.githubusercontent.com/112080695/195574469-ef51f6e5-53c1-46ca-8b14-ed7fdeec14b8.png">
+
+Se stl fil. 
+For å få inn i fusion: mesh - insert mesh (med blå pil over create) - velg stl fil (ferdig skalert)
+
+
 ## Onsdag 12.10 
 Arbeider i dag med å få kjøpesenteret inn i fusion 360. Dette har vi nå klart, nå handler det om skalering. 
 Ser også på å få stl fil fra fusion360 inn i ROS så vi kan lage en ny verden. 
