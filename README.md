@@ -26,6 +26,7 @@ Fortvil ikke, det går fint å svinge 😏 :
 
 Vi har nå funnet ut og forstått mer av hvordan vi skal navigere roboten i lattice planner i Matlab - og knukket koden for hvordan θ fungerer. Nå gir alt mening.
 
+![image](https://user-images.githubusercontent.com/112080695/195578004-0f471204-1f73-4a74-9198-011a34593a45.png)
 
 
 ## Torsdag 06.10
