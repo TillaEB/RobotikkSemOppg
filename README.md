@@ -1,5 +1,8 @@
 # Semesteroppgave for ELE306 Robotikk 🤖 
 
+## Torsdag 13.10 
+
+Waterino--> H2rObot
 
 ## Onsdag 12.10 
 Arbeider i dag med å få kjøpesenteret inn i fusion 360. Dette har vi nå klart, nå handler det om skalering. 
