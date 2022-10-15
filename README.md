@@ -43,9 +43,16 @@ Måten vi har tatt hensyn til dette:
  - Vi har sørget for å legge inn mellompunkt noen steder hvor det kreves slik at roboten ikke kjører en hindring. 
  - Det koster mer å svinge enn å kjøre rett, prøver å holde den mest mulig "midt" i kartet og på en linje. 
  - Tilpasset hvilken vinkel den skal ende opp i. 
-
+ 
 ![image](https://user-images.githubusercontent.com/112081507/195333800-16748f94-4809-4dac-a0dd-3eadff4591dc.png)
 
+
+Vi velger Grid=3 for dette gir et fornuftig antall noder. Griddet ligger da opp til at roboten snur 180 grader via en halvsirkel med radius 1.5meter. Vår robot har en avstand på 0.60m (cc) mellom hjulene (wheelbase) og en maksimal sving på forhulene på 40 grader. 
+Turning radius for vår robot blir da 
+Tr=wb/tan(maksSving)=0.60m/tan(40 deg)=0.7149m. 
+Dette betyr at roboten vår ikke vil ha problemer med å utføre en 180 graders sving slik som grid er satt opp.
+
+Rootnode satt vi i midten for at den skulle bre seg utover. Å sitte den i et f.eks et hjørne ga mye færre noder, og veldig rart plasserte noder. 
 Vi har tenkt oss 8 "soner" hvor det vil befinne seg planter, og har testet at roboten kjører en kollisjonsfri rute mellom plantene. 
 Roboten vil kjøre en fast rute, og ha en fast rekkefølge den besøker plantene i. 
 
