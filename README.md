@@ -8,7 +8,7 @@ Armen skal kun bevege seg fra venstre til høyre og motsatt via fronten på robo
 ![image](https://user-images.githubusercontent.com/112081507/197809867-5bff5241-7db5-4e70-a6a1-6b58dde80460.png)
 
 Brukt veldig vitenskapelige metoder for finne ut om robotarmen 
-![image](https://user-images.githubusercontent.com/112081507/197810353-1f27ef22-f312-42f9-91ca-c2dcc37f9ade.png)
+![image](https://user-images.githubusercontent.com/112081507/197810755-1f66b638-53d1-41b8-ab6a-40ea59bb4cf7.png)
 
 Spørsmål til hjelpetime 
 
