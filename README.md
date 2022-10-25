@@ -14,6 +14,7 @@ Spørsmål til hjelpetime
 
 - Robotarmen, skal man designe selv eller finne en som allerede finnes 
 - Hvordan er det å tegne en robotarm i ros, vanskelig? 
+- I følge lattice skal roboten egentlig klare å kjøre ruten, men når vi simulerer kommer den noen ganger ikke frem til målet. Vi har noen ruter å vise til hvor den klarer det fint. Hvis det er viktig at den klarer å kjøre mellom alle plantene trenger vi hjelp. 
 
 
 
