@@ -1,4 +1,21 @@
 # Semesteroppgave for ELE306 Robotikk 🤖 
+## Tirsdag 25.10 
+Today is arm day 
+Vi jobber med arm til roboten. Kravet er at den skal nå potter som står på gulvet helt ned til 20cm og potter opp til 150cm. Basen vår er 40cm høy, inklusivt 10 cm radius på hjulene vil dette gi at basen på armen er festet 50 cm over gulvet. 
+Ut i fra hvordan vi har tenkt at roboten skal kjøre opp til planetene vil det variere om planten havner på høyre eller venstre siden på basen. Altså må vi har et ledd med rotasjon rundt z aksen (koordinatsystem 0 vil være likt som body corrdinate til roboten) 
+
+Armen skal kun bevege seg fra venstre til høyre og motsatt via fronten på roboten. Dette fordi at det ikke skal bli konflikt mellom vanntanken og armen. Armen kan kun bevege seg mellom 0 og pi grader 
+![image](https://user-images.githubusercontent.com/112081507/197809867-5bff5241-7db5-4e70-a6a1-6b58dde80460.png)
+
+Brukt veldig vitenskapelige metoder for finne ut om robotarmen 
+![image](https://user-images.githubusercontent.com/112081507/197810353-1f27ef22-f312-42f9-91ca-c2dcc37f9ade.png)
+
+Spørsmål til hjelpetime 
+
+- Robotarmen, skal man designe selv eller finne en som allerede finnes 
+- Hvordan er det å tegne en robotarm i ros, vanskelig? 
+
+
 
 ## Torsdag 13.10 
 
