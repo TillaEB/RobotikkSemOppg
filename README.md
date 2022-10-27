@@ -12,17 +12,27 @@ Brukt veldig vitenskapelige metoder for finne ut om robotarmen
 
 Spørsmål til hjelpetime 
 
-- Robotarmen, skal man designe selv eller finne en som allerede finnes 
+- Robotarmen, skal man designe selv eller finne en som allerede finnes
+ 
 - Hvordan er det å tegne en robotarm i ros, vanskelig? 
+
 - I følge lattice skal roboten egentlig klare å kjøre ruten, men når vi simulerer kommer den noen ganger ikke frem til målet. Vi har noen ruter å vise til hvor den klarer det fint. Hvis det er viktig at den klarer å kjøre mellom alle plantene trenger vi hjelp. 
 
 
 ## Mandag 17.10
-Begynte å skrive inn det vi hadde fra Oblig 1 på rapporten, og så på hvilke sensorer vi trenger. 
+Begynte å skrive inn det vi hadde fra Oblig 1 på rapporten.
+
+Vurderte også hvilke sensorer vi trenger: 
+
+
 
 -Kamera sensor for å identifisere eventuelle hindringer i veibanen, og finne frem til riktig sted den skal vanne.
+
 -Fuktighetssensor til å måle fuktigheten i jorden til planten.
+
 -Vektsensor for å kunne detektere om vanntanken er tom/full.
+
+
 
 Gikk for Intel RealSense D415. Dette kamerasystemet egner seg godt til vår bruk, og har innebygget RGB fargesensor. Selv om vi ikke skal bruke RGB i denne oppgaven, vil det gi mulighet til å videreutvikle roboten, om ønsket, til å kunne plukke vekk vissne blader uten å måtte skifte kamera. 
 
