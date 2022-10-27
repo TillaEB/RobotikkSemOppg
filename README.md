@@ -1,4 +1,8 @@
 # Semesteroppgave for ELE306 Robotikk 🤖 
+
+## Torsdag 27.10 
+Har fått til delvis simulering i ROS. Jobber med dimensjoner av utgangspunktet vi fikk i timen 26.10. Så langt er dimensjonene riktig (tror vi (noe rart skjer når man overfører .stl filer fra fusion360 tilbake til ROS)), vi må bare jobbe med å få festet alt sammen, samt designe og lage en 3D-modell av vanntanken vi skal ha oppå roboten. 
+
 ## Tirsdag 25.10 
 Today is arm day 
 Vi jobber med arm til roboten. Kravet er at den skal nå potter som står på gulvet helt ned til 20cm og potter opp til 150cm. Basen vår er 40cm høy, inklusivt 10 cm radius på hjulene vil dette gi at basen på armen er festet 50 cm over gulvet. 
