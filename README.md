@@ -1,5 +1,14 @@
 # Semesteroppgave for ELE306 Robotikk 🤖 
 
+## Onsdag 16.10 
+Ikke opdatert GIT på en stund, men har jobbet mye med robotikk likevel. Vi har fått til å kjøre roboten i ros via matlab. Den følger blanen laget av latticeplanner, men svinger veldig. Plottet fra matlab viser store svinginger mens den følger banen fra latticeplanner. Når vi ser på bevegelsen til roboten i gazebo ser det ikke ut som at den svinger så mye som matlab skal ha det til. 
+Vi har funnet ut hvordan vi gjør at roboten blir mindre når vi simulerer at roboten kjører i matlab, men hvis det skulle vært realistisk ser man nesten ikke roboten i kartet så vi lar det være. 
+Vi jobber videre med å bevege arnmen i gazebo fra ros. Vi har fått det til i matlab, og i gazebo også. Nå jobber vi med å få roboten til å kjøre til et punkt også bevege armen etter det. 
+
+Jobber også med final presentation og å få unna de siste punktene på kravlisten. 
+
+Etter å ha jobbet med ikine fant vi ut at robotarmen vil stille seg inn anderledes enn vi hadde sett for oss i utgangspubktet. Armen vil ikke stille seg inn rett over planten men kommme inn på skrått. Dette løser vi med å ha en fuktighetssensor med knekk på og som er noe lengre enn vi opprinnelig så for oss. 
+
 ## Torsdag 27.10 
 Har fått til delvis simulering i ROS. Jobber med dimensjoner av utgangspunktet vi fikk i timen 26.10. Så langt er dimensjonene riktig (tror vi (noe rart skjer når man overfører .stl filer fra fusion360 tilbake til ROS)), vi må bare jobbe med å få festet alt sammen, samt designe og lage en 3D-modell av vanntanken vi skal ha oppå roboten. 
 
