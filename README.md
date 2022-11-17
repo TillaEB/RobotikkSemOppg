@@ -1,4 +1,10 @@
 # Semesteroppgave for ELE306 Robotikk 🤖 
+## Torsdag 17.10 
+kommentarer etter final presentation: 
+- kjempe fint og supert 
+- ikke kjempe viktig å ha rikitge lengder på armen 
+- kan prøve å importere 3D kartet og kjøre inni det, hadde vært kult men iikke nødvendig 
+- ctraj 
 
 ## Onsdag 16.10 
 Ikke opdatert GIT på en stund, men har jobbet mye med robotikk likevel. Vi har fått til å kjøre roboten i ros via matlab. Den følger blanen laget av latticeplanner, men svinger veldig. Plottet fra matlab viser store svinginger mens den følger banen fra latticeplanner. Når vi ser på bevegelsen til roboten i gazebo ser det ikke ut som at den svinger så mye som matlab skal ha det til. 
