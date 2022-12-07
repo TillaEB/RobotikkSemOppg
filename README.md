@@ -1,4 +1,8 @@
 # Semesteroppgave for ELE306 Robotikk 🤖 
+## Onsdag 07.12
+Etter litt eksamensperiode er vi tilbake på Github. Utifra tilbakemeldingene vi fikk fra "final presentation" har vi fikset riktige lengder på armen, og der det ikke var mulig å endre lengdene på armen (ROS) har vi slått oss til ro med at de fungerer som en omtrentelig simulering. Videre klarte vi å lage et 3D-kart som en ny world i Gazebo, men slet med å få roboten inn i denne worlden. Selv om vi mangler 3D-kart, er alle simuleringene vi har likevel bra nok. Vi har også endret fra ctraj til mtraj når det kommer til banekjøring av roboten i Matlab - så vi fikk fikset det problemet vi hadde tidligere. 
+Per nå mener vi at vi har krysset av alle punktene av krav som skal være med i rapporten, så det er vi tilfreds med. Vi har i dag ferdigstilt rapporten, og er stolt over det vi har produsert.
+
 ## Torsdag 17.10 
 kommentarer etter final presentation: 
 - kjempe fint og supert 
